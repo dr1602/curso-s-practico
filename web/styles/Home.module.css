@@ -132,10 +132,10 @@
       rgb(88, 245, 208)
     )
     100% 0% / 200% 100%;
-  padding: 0.2rem;
+  padding: 3vh;
   display: inline-block;
   user-select: none;
-  border-radius: 1.4rem;
+  border-radius: 3vh;
   color: rgb(255, 255, 255);
   --iconColor: #ffffff;
   transition: all 200ms ease 0s, transform 50ms ease 0s;
